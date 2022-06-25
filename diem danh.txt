@@ -1,1 +1,2 @@
 0 thai
+1 tung
