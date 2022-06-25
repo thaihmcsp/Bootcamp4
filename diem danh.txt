@@ -1,5 +1,8 @@
 0 thai
-
 git pull origin master
-
 1 anhtu
+1 thai2
+2 tung
+3 quang
+4 anhtu
+5 xuan tung
