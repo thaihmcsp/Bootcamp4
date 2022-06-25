@@ -1,2 +1,14 @@
 0 thai
+<<<<<<< HEAD
 1 tung
+=======
+<<<<<<< HEAD
+1 quang
+=======
+
+1 anhtu
+>>>>>>> ddd59fc5a7d68e33c9912c544e8a77e865fc804d
+>>>>>>> 07c0a704b097c6a1b8af717e815ebc13ad28243e
+
+
+6 xuan tung
